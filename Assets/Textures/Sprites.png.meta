@@ -1,0 +1,1465 @@
+fileFormatVersion: 2
+guid: 72534b17055eb0047aab8d09ef1326f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4773600122041589604
+    second: Sprites_0
+  - first:
+      213: -4789670105439411607
+    second: Sprites_1
+  - first:
+      213: 7061801754131594114
+    second: Sprites_2
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 01-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1
+        width: 384
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3736ff2f13ac8aa4780aa3f7f89bb8c5
+      internalID: 1554050714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 131
+        width: 384
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f387f654c66c3724db18d7d0a495769c
+      internalID: -1664513316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 911
+        width: 384
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85fd72231e7b3145be3eac2e9bed2af
+      internalID: -1840431361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 781
+        width: 384
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b4b21c440185d4e815846b7e4d2866
+      internalID: -1774046522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 651
+        width: 384
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef370c811cf567a43bb3cffd6711e1b2
+      internalID: 252341086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 521
+        width: 384
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9f30be09a84b949a6a8ed0ac8543cc
+      internalID: -1702308326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 07-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 391
+        width: 384
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44459cc560a29bc47a2922d4ee3dc204
+      internalID: 170081767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 08-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 261
+        width: 384
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65a14d1ed85476408bbe4b2c958e661
+      internalID: 503793664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 09-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1
+        width: 384
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc0f099dd67a7346a9afd8df7b6b0f7
+      internalID: 785866069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 384
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5c3f174bf58e148a83e193cdd08ebe
+      internalID: -1308244254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 229
+        width: 384
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42d5153910322f4bb18cbd8291dd64b
+      internalID: -567297184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 359
+        width: 384
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c865073dd3ec693448ceb15f5e12894f
+      internalID: 2103774192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 489
+        width: 384
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3556f675c3b056946b2cef22bb005478
+      internalID: -289220642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 619
+        width: 384
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601930111974b3242bbf5910ae558d15
+      internalID: -810894713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 749
+        width: 384
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e12004fcff425c46a03ecba00153080
+      internalID: -1551176641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 879
+        width: 384
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36a049031da5f44f93a257df0a7d986
+      internalID: 1678360380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 17-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1
+        width: 384
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d6b2ff4ae2ae445af29084aca8af9f
+      internalID: 1187981348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 384
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc680207d543c444bb89fb4105428dc9
+      internalID: -47446845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1009
+        width: 384
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040184af745aeb6409a991d6f96e09a0
+      internalID: -1128851248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1139
+        width: 384
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbec2f4fe3a5a6a4c839ddeea16549ad
+      internalID: 1577501140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 521
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1b0323e20fa07449b02b35117c665a
+      internalID: -570197365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 391
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74488dffe67936b44befc4359828444c
+      internalID: -872453368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967df9b9db66ac5448097fce13143106
+      internalID: 958954861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dd87b9e828a4f469b19c35ee4300bd
+      internalID: -771588747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 25-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c501f74774e6f49ab0113b0aa0f926
+      internalID: 1796666570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f7a273f8ea88349a4aa9a59fb3ecdb
+      internalID: -2091047571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff990f3d1d5b2714eba6234b509192cb
+      internalID: 956584881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb22ae3367b7b7e459f85b982682407b
+      internalID: 1644769794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6447405ab4fd6ef41b3f1b0b97adae83
+      internalID: -1215889655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1919
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d39de4362332d4085f10c996589110
+      internalID: -679291812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1269
+        width: 485
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d9d29f5400cf846858baa5fa9e4dbd
+      internalID: 150372104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1399
+        width: 485
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a817f20a2025df44ea0d5167028de017
+      internalID: 1121967862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1529
+        width: 485
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd67e1ff1bf34714faead3ff0eb4d3e8
+      internalID: 1193988926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 34-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1659
+        width: 485
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a695098a2999e42a3cfc5a57edcbda
+      internalID: -504226027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 35-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1789
+        width: 485
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfa1e358d2180e4c84ea03c06c7c1a7
+      internalID: -3030272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 36-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1139
+        width: 485
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9400069b5187e3a49910cd8f82a49f63
+      internalID: -925001395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 37-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1269
+        width: 485
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc7b891cd5a3324fa84088bb1aa9815
+      internalID: 1865027378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 38-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1399
+        width: 485
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a8210dd3e52354f856b7b88195fde1
+      internalID: 928950135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 39-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1529
+        width: 485
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e185eb6c609324da3c85c79e3199fc
+      internalID: 1534580473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1659
+        width: 485
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f490b19954cd5af44b92cb2a9d2dea49
+      internalID: 601224619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 41-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1789
+        width: 485
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d38400871c0e7418b992b955d3d500
+      internalID: 560245512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 42-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1139
+        width: 485
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf37642a06745a647a3d0222bdeeb3fd
+      internalID: -622493180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 43-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1269
+        width: 485
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45481fe7268ed2046bbf87647a558c34
+      internalID: -1029303585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 44-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1399
+        width: 485
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5480537a72dd0c34881c21d76095201a
+      internalID: 110805544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1529
+        width: 485
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cd99e89c7ce1f4aa86e69534b77f2f
+      internalID: -612420786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 46-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1659
+        width: 485
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a2e03101d2f8645ae5a726fb1d6347
+      internalID: 1693634691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 47-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1139
+        width: 485
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a101c2b93a353949adea2edfb309c75
+      internalID: 647480479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 48-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1269
+        width: 485
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc42fae983fddb24ca0816d8cbd8753c
+      internalID: 1109733092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 49-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1789
+        width: 488
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a3852ae0442164592b00b8a38c64f4
+      internalID: -1700790336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 50-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1399
+        width: 485
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5268edc668fd6c14ebbb9f8b46007507
+      internalID: 1803546405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 51-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1529
+        width: 485
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5daba655cde01640bbb98e0dedb4420
+      internalID: 1293463739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1659
+        width: 485
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0010960b84a94e541afd3c65797f9e8f
+      internalID: 953383266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 53-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1789
+        width: 485
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d090502a43a5a4a85042a26a7540b8
+      internalID: 277620339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 54-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1919
+        width: 485
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadf9a1a81d6a524aa7525ace6be961d
+      internalID: 1286634376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 55-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1919
+        width: 485
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6775c10ea28e34bb6b70c536d49683
+      internalID: -1205833445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 56-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1919
+        width: 693
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e974659ccd28994479a9b63c2afee11a
+      internalID: 956912611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 57-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 261
+        width: 230
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02baca571f575974ba11a9b7e15f08b8
+      internalID: 48206752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 58-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9191aefd5041584dbbe4e20ab1a3bc1
+      internalID: -854082495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 59-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1919
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54964ca013962924691e10005b5a78d8
+      internalID: 1416179483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 60-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1021
+        width: 128
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94226fe622a191e4daed0de5f7f48c58
+      internalID: 1650958385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 61-Breakout-Tiles
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1635
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edd05b0b5497274eb8e8cf0d4639552
+      internalID: -340983859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d9857faf3f65b6b4092d3427887e1acf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      01-Breakout-Tiles: 1554050714
+      02-Breakout-Tiles: -1664513316
+      03-Breakout-Tiles: -1840431361
+      04-Breakout-Tiles: -1774046522
+      05-Breakout-Tiles: 252341086
+      06-Breakout-Tiles: -1702308326
+      07-Breakout-Tiles: 170081767
+      08-Breakout-Tiles: 503793664
+      09-Breakout-Tiles: 785866069
+      10-Breakout-Tiles: -1308244254
+      11-Breakout-Tiles: -567297184
+      12-Breakout-Tiles: 2103774192
+      13-Breakout-Tiles: -289220642
+      14-Breakout-Tiles: -810894713
+      15-Breakout-Tiles: -1551176641
+      16-Breakout-Tiles: 1678360380
+      17-Breakout-Tiles: 1187981348
+      18-Breakout-Tiles: -47446845
+      19-Breakout-Tiles: -1128851248
+      20-Breakout-Tiles: 1577501140
+      21-Breakout-Tiles: -570197365
+      22-Breakout-Tiles: -872453368
+      23-Breakout-Tiles: 958954861
+      24-Breakout-Tiles: -771588747
+      25-Breakout-Tiles: 1796666570
+      26-Breakout-Tiles: -2091047571
+      27-Breakout-Tiles: 956584881
+      28-Breakout-Tiles: 1644769794
+      29-Breakout-Tiles: -1215889655
+      30-Breakout-Tiles: -679291812
+      31-Breakout-Tiles: 150372104
+      32-Breakout-Tiles: 1121967862
+      33-Breakout-Tiles: 1193988926
+      34-Breakout-Tiles: -504226027
+      35-Breakout-Tiles: -3030272
+      36-Breakout-Tiles: -925001395
+      37-Breakout-Tiles: 1865027378
+      38-Breakout-Tiles: 928950135
+      39-Breakout-Tiles: 1534580473
+      40-Breakout-Tiles: 601224619
+      41-Breakout-Tiles: 560245512
+      42-Breakout-Tiles: -622493180
+      43-Breakout-Tiles: -1029303585
+      44-Breakout-Tiles: 110805544
+      45-Breakout-Tiles: -612420786
+      46-Breakout-Tiles: 1693634691
+      47-Breakout-Tiles: 647480479
+      48-Breakout-Tiles: 1109733092
+      49-Breakout-Tiles: -1700790336
+      50-Breakout-Tiles: 1803546405
+      51-Breakout-Tiles: 1293463739
+      52-Breakout-Tiles: 953383266
+      53-Breakout-Tiles: 277620339
+      54-Breakout-Tiles: 1286634376
+      55-Breakout-Tiles: -1205833445
+      56-Breakout-Tiles: 956912611
+      57-Breakout-Tiles: 48206752
+      58-Breakout-Tiles: -854082495
+      59-Breakout-Tiles: 1416179483
+      60-Breakout-Tiles: 1650958385
+      61-Breakout-Tiles: -340983859
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

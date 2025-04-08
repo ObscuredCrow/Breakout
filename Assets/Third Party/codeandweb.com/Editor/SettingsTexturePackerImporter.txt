@@ -1,0 +1,11 @@
+version: 2
+tpsheetFileNames:
+- Assets/Textures/Sprites.tpsheet
+- Assets/Third Party/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+textureFileNames:
+- Assets/Textures/Sprites.png
+- Assets/Third Party/codeandweb.com/Example/SpriteSheet/sprites.png
+normalmapFileNames:
+- 
+- Assets/Third Party/codeandweb.com/Example/SpriteSheet/sprites_n.png
+enableDebugOutput: 0
