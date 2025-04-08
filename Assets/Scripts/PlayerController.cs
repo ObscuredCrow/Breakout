@@ -26,7 +26,7 @@ public class PlayerController : MonoBehaviour
         _rigidbody.simulated = GameController.Instance.State == GameState.Run;
         if (GameController.Instance.State != GameState.Run) return;
 
-        _rigidbody.velocity = Vector3.zero;
+        _rigidbody.linearVelocity = Vector3.zero;
 
         if (Input.GetKey(KeyCode.LeftArrow))
 			transform.position += transform.right * -_moveSpeed * Time.deltaTime;
